@@ -6,14 +6,17 @@
     <description>Recent content in Posts on CHUN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Aug 2021 14:33:38 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 22:40:11 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Two</title>
-      <link>https://example.com/post/two/</link>
-      <pubDate>Fri, 27 Aug 2021 14:33:38 +0800</pubDate>
+      <title>摘花</title>
+      <link>https://example.com/post/%E6%91%98%E8%8A%B1/</link>
+      <pubDate>Fri, 27 Aug 2021 22:40:11 +0800</pubDate>
       
-      <guid>https://example.com/post/two/</guid>
-      <description>测试</description>
+      <guid>https://example.com/post/%E6%91%98%E8%8A%B1/</guid>
+      <description>摘花迢迢一求白扶桑，
+匆匆却误醉芙蓉。
+朝阳只觉洁如玉，
+晚风才晓别样红。</description>
     </item>
     
     <item>
@@ -22,7 +25,7 @@
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/post/%E4%B8%9C%E9%82%AA%E8%A5%BF%E6%AF%92%E5%89%AA%E8%BE%91/</guid>
-      <description>佛典有云：风未吹，旗也未动，是人的心自己动。
+      <description>佛典有云：旗未动，风也未吹，是人的心自己动。
 https://www.bilibili.com/video/BV1yP4y1W72p?share_source=copy_web</description>
     </item>
     
