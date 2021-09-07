@@ -5,6 +5,25 @@
     <link>https://chuner.wang/tags/</link>
     <description>Recent content in Tags on CHUN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chuner.wang/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Sep 2021 16:25:52 +0800</lastBuildDate><atom:link href="https://chuner.wang/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>https://chuner.wang/tags/markdown/</link>
+      <pubDate>Tue, 07 Sep 2021 16:25:52 +0800</pubDate>
+      
+      <guid>https://chuner.wang/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://chuner.wang/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 07 Sep 2021 16:25:52 +0800</pubDate>
+      
+      <guid>https://chuner.wang/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
