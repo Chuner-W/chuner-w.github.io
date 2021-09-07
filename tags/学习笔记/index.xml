@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CHUN</title>
-    <link>https://chuner.wang/post/</link>
-    <description>Recent content in Posts on CHUN</description>
+    <title>学习笔记 on CHUN</title>
+    <link>https://chuner.wang/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 学习笔记 on CHUN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Sep 2021 16:44:50 +0800</lastBuildDate><atom:link href="https://chuner.wang/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 16:44:50 +0800</lastBuildDate><atom:link href="https://chuner.wang/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一个大胆的想法</title>
       <link>https://chuner.wang/post/%E4%B8%80%E4%B8%AA%E5%A4%A7%E8%83%86%E7%9A%84%E6%83%B3%E6%B3%95/</link>
@@ -18,15 +18,6 @@
 看我能不能坚持住噢🤪我会尽我所能的
 拭目以待，干了干了
 如果真的在我的平板上搞好了Linux系统，那我就在课堂上用markdown记录笔记后，便可以直接推送到远端，所有事都可以在平板上完成</description>
-    </item>
-    
-    <item>
-      <title>行尸走肉更新啦</title>
-      <link>https://chuner.wang/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</link>
-      <pubDate>Mon, 30 Aug 2021 23:27:26 +0800</pubDate>
-      
-      <guid>https://chuner.wang/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</guid>
-      <description>行尸走肉最终季真的要完结了呀</description>
     </item>
     
   </channel>
