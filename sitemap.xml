@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://chuner.wang/</loc>
     <lastmod>2021-08-30T23:27:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://chuner.wang/post/</loc>
     <lastmod>2021-08-30T23:27:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</loc>
+    <loc>https://chuner.wang/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</loc>
     <lastmod>2021-08-30T23:27:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://chuner.wang/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://chuner.wang/tags/</loc>
   </url>
 </urlset>

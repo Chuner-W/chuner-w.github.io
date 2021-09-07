@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CHUN</title>
-    <link>https://example.com/post/</link>
+    <link>https://chuner.wang/post/</link>
     <description>Recent content in Posts on CHUN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Aug 2021 23:27:26 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 23:27:26 +0800</lastBuildDate><atom:link href="https://chuner.wang/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>行尸走肉更新啦</title>
-      <link>https://example.com/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</link>
+      <link>https://chuner.wang/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</link>
       <pubDate>Mon, 30 Aug 2021 23:27:26 +0800</pubDate>
       
-      <guid>https://example.com/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</guid>
+      <guid>https://chuner.wang/post/%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E6%9B%B4%E6%96%B0%E5%95%A6/</guid>
       <description>行尸走肉最终季真的要完结了呀</description>
     </item>
     
