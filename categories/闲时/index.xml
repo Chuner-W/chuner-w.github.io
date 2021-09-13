@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>闲时 on CHUN</title>
+    <link>https://chuner.wang/categories/%E9%97%B2%E6%97%B6/</link>
+    <description>Recent content in 闲时 on CHUN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2021 01:01:12 +0800</lastBuildDate><atom:link href="https://chuner.wang/categories/%E9%97%B2%E6%97%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前功尽弃</title>
+      <link>https://chuner.wang/post/%E5%89%8D%E5%8A%9F%E5%B0%BD%E5%BC%83/</link>
+      <pubDate>Mon, 13 Sep 2021 01:01:12 +0800</pubDate>
+      
+      <guid>https://chuner.wang/post/%E5%89%8D%E5%8A%9F%E5%B0%BD%E5%BC%83/</guid>
+      <description>在移动端使用termux安装Linux是可行的
+编辑markdown格式文件也是可行的
+但是想要流畅舒服的编辑markdown，并且上传到博客网站
+是不怎么可行的🤐
+因为限于平板arm64架构，绝大多数软件都是amd64架构的，所以并不支持，虽然有arm64架构的markdown编辑器，但是输入法体验真的不好，实在是不舒服，而且流畅度属实有点拉胯，所以只好做罢
+我前前后后搞了四天，实验了andronix软件和2moe大佬的tmoe脚本，花费了3.5美元，结果就搞成了一个一半中文一半英文的半成品🤯，实在不爽。今天我放弃了，不搞了，实在搞不起😵，前前后后重装了很多次系统，最后终于是被我玩坏了😂
+等有时间了再实验别的方法，再深入地摸索一下
+最后，我想说的是
+看着代码跑起来的感觉，真的很爽很爽🤪</description>
+    </item>
+    
+  </channel>
+</rss>
