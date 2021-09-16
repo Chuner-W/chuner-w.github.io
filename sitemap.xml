@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chuner.wang/tags/acca/</loc>
+    <lastmod>2021-09-17T00:29:58+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/post/acca/</loc>
+    <lastmod>2021-09-17T00:29:58+08:00</lastmod>
+  </url><url>
     <loc>https://chuner.wang/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-17T00:29:58+08:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/post/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-17T00:29:58+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/tags/</loc>
+    <lastmod>2021-09-17T00:29:58+08:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/post/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
@@ -19,9 +28,6 @@
   </url><url>
     <loc>https://chuner.wang/categories/%E9%97%B2%E6%97%B6/</loc>
     <lastmod>2021-09-13T01:01:12+08:00</lastmod>
-  </url><url>
-    <loc>https://chuner.wang/tags/</loc>
-    <lastmod>2021-09-07T16:44:50+08:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/post/%E4%B8%80%E4%B8%AA%E5%A4%A7%E8%83%86%E7%9A%84%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2021-09-07T16:44:50+08:00</lastmod>
