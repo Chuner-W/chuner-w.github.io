@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chuner.wang/categories/</loc>
+    <lastmod>2021-09-21T10:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/</loc>
+    <lastmod>2021-09-21T10:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/post/</loc>
+    <lastmod>2021-09-21T10:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/post/%E4%B8%80%E5%9C%BA%E4%B8%8D%E6%99%AE%E9%80%9A%E7%BB%86%E9%9B%A8/</loc>
+    <lastmod>2021-09-21T10:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/categories/%E9%97%B2%E6%97%B6/</loc>
+    <lastmod>2021-09-21T10:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://chuner.wang/post/%E6%9C%88%E5%A4%9C/</loc>
+    <lastmod>2021-09-21T10:28:29+08:00</lastmod>
+  </url><url>
     <loc>https://chuner.wang/tags/acca/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +27,6 @@
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/categories/acca%E8%A1%80%E6%B3%AA%E5%8F%B2%E4%B9%8Bf4/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chuner.wang/categories/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chuner.wang/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chuner.wang/post/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/tags/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2021-09-17T00:29:58+08:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/post/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chuner.wang/categories/%E9%97%B2%E6%97%B6/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chuner.wang/post/%E5%89%8D%E5%8A%9F%E5%B0%BD%E5%BC%83/</loc>
